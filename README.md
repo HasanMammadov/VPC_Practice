@@ -6,7 +6,7 @@ To achive isolated network.
 
 Using Bastion Host we gonna creat connection between public and private subnets.
 
-### Create below atributes in AWS
+### Create below atributes in AWS.
 
 * 1.  VPC in AWS.
 * 2.  Subnets.
@@ -14,14 +14,15 @@ Using Bastion Host we gonna creat connection between public and private subnets.
 * 4.  Internet Gateway
 * 5. NACL's
 * 6. NAT Gateway
+*  Also we need creat 2 EC2. 1st for Bastion host, 2nd for private subnets.
 
-### Assosation Subnets
+### Assosation Subnets.
 
 * After creating public and private subnets we need assosiate subnets.
-* For high aviabilty creat subnets different AZ's.
+* For high availability creat subnets in different AZ's.
 ### Internet Gateway.
 
-* Since 1 VPC can have 1 Intenet Gateway. 
+* 1 VPC can have 1 Intenet Gateway. 
 * Attach VPC to Gateway.
 
 ### Route Tables.
