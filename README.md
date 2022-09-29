@@ -28,7 +28,7 @@ Using Bastion Host we gonna creat connection between public and private subnets.
 ### Route Tables.
 
 * We need creat public and private RT. 
-* We need configure inbound rukles and outband rules. 
+* We need configure inbound rules and outband rules. 
 
 ### NACL's (A Network Access Control List).
 
