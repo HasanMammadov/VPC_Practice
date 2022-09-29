@@ -59,7 +59,8 @@ Using Bastion Host we gonna creat connection between public and private subnets.
 2. ssh-add -K ~/Downloads/[pem file] --> adds pem file to ssh identity 
 3.  ssh -A ec2-user@[public-ip] --> Login to Instance 
 4.  Once logged in to Bastion run --> ssh ec2-user@[private-ip]
-5.  ping -c 3 google.com or any domain name to test internet connectivity 
+  
+   # ping -c 3 google.com or any domain name to test internet connectivity
 
 ## Help
 
