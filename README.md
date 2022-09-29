@@ -76,18 +76,6 @@ Contributors names and contact info
  Hasan Mammadov  
 [@HasanMammad](https://www.linkedin.com/in/hasan-mamedoff-073a30212/)
 
-## Version History
-
-* 0.1
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.2
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
