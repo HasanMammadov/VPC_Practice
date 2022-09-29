@@ -55,7 +55,7 @@ Using Bastion Host we gonna creat connection between public and private subnets.
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+git help command to run if program contains helper info
 ```
 
 ## Authors
