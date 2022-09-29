@@ -53,7 +53,7 @@ Using Bastion Host we gonna creat connection between public and private subnets.
   Add rule number (110), Custop TCP, Port - 1024 -65535, and destination local IP. 
 
 ### Notes for login Bastion Host and Private EC2.
-  Login/SSH into Instance --> ssh -i <pem file> ec2-user@<public-ip>\\
+  Login/SSH into Instance --> ssh -i <pem file> ec2-user@<public-ip>( <br> )
 Before login Bastion host and private ec2 we need follow below steps:
 1. chmod 400 ~/Downloads/<pem file> --> locks down the permissions 
 2. ssh-add -K ~/Downloads/<pem file> --> adds pem file to ssh identity 
